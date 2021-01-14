@@ -1,5 +1,5 @@
 exports.info = (id, BotName, corohelp, tampilTanggal, tampilWaktu, instagramlu, whatsapplu, kapanbotaktif, grupch1, grupch2) => {
-	return `🔰 -----[ *MENU ${BotName}* ]----- 🔰
+	return `🔰 -----[ *MENU ${RibasBot}* ]----- 🔰
   
 Hi, *${id.split("@s.whatsapp.net")[0]}* 👋️
 Berikut adalah info pada bot ini!✨
@@ -9,8 +9,8 @@ Berikut adalah info pada bot ini!✨
 
 🔴 INFO BOT! :
 
-=> *AUTHOR*: Revoer ID
-=> *YOUTUBE*: Revoer GMG
+=> *AUTHOR*: RibasBot
+=> *YOUTUBE*: RibasYT
 
 🔴 INFO LAIN! :
 
@@ -22,7 +22,7 @@ BTW MIMIN JOMBLO YANG MAU PM AJA :V GAK TERIMA GAY
 
 📺 *Iklan* :
 
-✅ Follow akun instagram admin ${instagramlu}
+✅ Follow akun instagram admin ${rbs.420}
 
 ⚠️ INFORMASI COVID-19 TERBARU!
 
@@ -33,12 +33,12 @@ BTW MIMIN JOMBLO YANG MAU PM AJA :V GAK TERIMA GAY
 
 ♻️ _TETAP JAGA KESEHATAN DAN SELALU PAKAI MASKER!_
 
-♻️ ADMIN GANS *${BotName} ?*
-☎️ WA : *${whatsapplu}*
+♻️ ADMIN GANS *${RibasYT} ?*
+☎️ WA : *${0821-9303-0283}*
   
 ⚠️ Gunakan dengan bijak ‼️
 ⚠️ Bot ini berjalan ${kapanbotaktif} ‼️
 
   
-🔰 -----[ *POWERED BY Revoer* ]----- 🔰`
+🔰 -----[ *POWERED BY RIBASYT* ]----- 🔰`
 }
