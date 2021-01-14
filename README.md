@@ -1,7 +1,7 @@
-### YanzBot
+### RibasYT
 
 ### Cara Installnya
-Script ini di modifikasi sama saya sendiri Yanz.
+Script ini di modifikasi sama saya sendiri RibasYT.
 ```bash
 kalo lu belum punya apk termux, download di playstore
 > masuk ke apk termux lalu ketik dibawah ini!
